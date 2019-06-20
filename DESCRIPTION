@@ -1,5 +1,5 @@
 Type: Compendium
-Package: Testing
+Package: Compendium title
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
@@ -8,7 +8,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "karthik.ram@gmail.com",
            comment = c(ORCID = "0000-0002-0233-1757"))
-Description: Foo
+Description: Compendium description
 License: MIT + file LICENSE
 Depends: 
     dataRetrieval,
